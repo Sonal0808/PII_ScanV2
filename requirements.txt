@@ -1,8 +1,12 @@
 streamlit
-pandas
-openpyxl
-python-docx
+pytesseract
+pdfplumber
+reportlab
+Pillow
 PyMuPDF
-extract-msg
 lxml
-pytesseract==0.3.13
+python-docx
+spacy
+presidio-analyzer
+presidio-anonymizer
+phonenumbers
