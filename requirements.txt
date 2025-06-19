@@ -5,3 +5,4 @@ python-docx
 PyMuPDF
 extract-msg
 lxml
+pytesseract==0.3.13
